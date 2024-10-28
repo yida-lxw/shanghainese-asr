@@ -1,7 +1,7 @@
 ## 运行环境
-conda create -name asr3.9 python=3.9
-conda activate asr3.9
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+conda create -name asr3.9 python=3.9<br/>
+conda activate asr3.9<br/>
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/<br/>
 
 ## 模型训练数据集下载
 由于模型训练数据集体积太大, 故放到百度网盘了.
