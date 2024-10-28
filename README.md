@@ -4,8 +4,8 @@ conda activate asr3.9<br/>
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/<br/>
 
 ## 模型训练数据集下载
-由于模型训练数据集体积太大, 故放到百度网盘了.
-沪语语音模型数据集下载地址:
+由于模型训练数据集体积太大, 故放到百度网盘了.<br/>
+沪语语音模型数据集下载地址:<br/>
 https://pan.baidu.com/s/189-8oaCzCwp_qhYYOIuMtw?pwd=6666
 
 ## 使用的工具库
